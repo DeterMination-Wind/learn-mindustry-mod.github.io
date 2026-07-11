@@ -1,4 +1,10 @@
 # Learn Mindustry Mod
+<h1 align="center">
+  <a href="https://github.com/DeterMination-Wind/learn-mindustry-mod.github.io/releases/latest"><img src="https://img.shields.io/github/v/release/DeterMination-Wind/learn-mindustry-mod.github.io?display_name=release&label=Latest%20Release&color=green"></a>
+  <a href="https://github.com/DeterMination-Wind/learn-mindustry-mod.github.io/releases"><img src="https://img.shields.io/github/downloads/DeterMination-Wind/learn-mindustry-mod.github.io/total?label=Downloads&color=blue"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/DeterMination-Wind/learn-mindustry-mod.github.io?label=License"></a>
+  <a href="https://github.com/DeterMination-Wind/learn-mindustry-mod.github.io"><img src="https://img.shields.io/github/stars/DeterMination-Wind/learn-mindustry-mod.github.io?style=flat&label=Star%20this%20mod!&color=yellow"></a>
+</h1>
 
 本仓库是Mindustry游戏mod开发教程的Github.io静态页面。
 
